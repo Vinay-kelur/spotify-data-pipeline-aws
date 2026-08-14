@@ -19,7 +19,7 @@ This project demonstrates a real-world, production-style data engineering pipeli
 
 ## Architecture
 
-<img src="Architecture_diagram.png" alt="S3 trigger icon" width="200"/>
+<img src="Architecture_diagram.png" alt="S3 trigger icon" width="600"/>
 ---
 
 ## Pipeline Stages
